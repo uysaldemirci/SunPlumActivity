@@ -1,0 +1,2 @@
+# SunPlumActivity
+ Artificial neural network with an elementary structure will be used during the work. The structure is a neuron with linear activation function (purelin(n)=purelin(Wp+b)=Wp+b ). Neuron task is to forecast the k-th value of time series a(k) using n previous values a(k-1), a(k-2), ..., a(k-n). Model that is implemented using a premise that a dependency between a forecasted value and previous values can be described using a linear function is called autoregressive linear model of the n-th order
